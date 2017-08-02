@@ -5,6 +5,7 @@ using Android.OS;
 
 namespace XamarinAllianceApp.Droid
 {
+    public static int t = 0;
     [Activity (Label = "Xamarin Alliance",
 		Icon = "@drawable/icon",
 		MainLauncher = true,
